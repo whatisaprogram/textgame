@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextGame": {
+      "commandName": "Project",
+      "commandLineArgs": "BEGINNING \"D:/test loading in.txt\""
+    }
+  }
+}
